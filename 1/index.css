@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+    /* background-color: orange; */
+}
+footer{
+    background-color: orange;
+    height: 10vh;
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: pink;
+    height: 10vh;
+    padding: 0px;
+    margin: 0px;
+}
+menu{
+    background-color: lightblue;
+    height: 5vh;
+    padding: 0px;
+    margin: 0px;
+}
+
+main{
+    background-color: lightcoral;
+    height: 70vh;
+    padding: 0px;
+    margin: 0px;
+}
